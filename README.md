@@ -6,7 +6,7 @@ once you launc the instance.  run below commands.
 
 On master .
 
-#copy the master shell script. Change the IP in script with your internal IP
+#copy the master shell script in installation directory . Change the IP in script with your internal IP
 
 chmod a+x install-master.sh 
 
